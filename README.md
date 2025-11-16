@@ -80,12 +80,7 @@ This project is a fully responsive Spices Website built using HTML, CSS, and Boo
 
 ## How to Run the Project
 
-1. Clone or download the repository:
-
-```
-Download Project ZIP: https://github.com/sowmathi761/My-Masala-Box/archive/refs/heads/main.zip
-
-```
+1. Clone or download the repository.
 
 2. Open the project folder.
 
