@@ -1,5 +1,6 @@
-
 # My-Masala-Box Website – HTML, CSS, and Bootstrap Project
+
+[Live Website](https://sowmathi761.github.io/My-Masala-Box/) | [GitHub Repository](https://github.com/sowmathi761/My-Masala-Box.git)
 
 This project is a fully responsive Spices Website built using HTML, CSS, and Bootstrap 5. It showcases various spice products with a clean layout, structured sections, and modern UI components.
 
@@ -81,9 +82,7 @@ This project is a fully responsive Spices Website built using HTML, CSS, and Boo
 ## How to Run the Project
 
 1. Clone or download the repository.
-
 2. Open the project folder.
-
 3. Open the file `index.html` in any web browser.
 
 ---
@@ -96,4 +95,4 @@ This project is a fully responsive Spices Website built using HTML, CSS, and Boo
 * Improving design using custom CSS
 * Handling forms and layout spacing effectively
 
-
+---
